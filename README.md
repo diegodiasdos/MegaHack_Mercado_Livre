@@ -1,2 +1,6 @@
 # MegaHack_Mercado_Livre
-Análise do padrão de consumo dos clientes de diferentes idiomas 
+
+Resumo:
+  
+      O projeto,consiste em criar econsistemas capaz receber dados de vários tipos que poderam 
+     ser analisados para indentificarfraudes.
