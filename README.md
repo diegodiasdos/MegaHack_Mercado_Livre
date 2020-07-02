@@ -8,9 +8,9 @@ Resumo:
 
 Softwares para desenvolvimento:
 
-https://www.anaconda.com/products/individual
-https://pandas.pydata.org/
-https://www.nltk.org/
-https://anaconda.org/anaconda/numpy
-https://docs.streamlit.io/en/latest/troubleshooting/clean-install.html
-https://scikit-learn.org/
+- https://www.anaconda.com/products/individual
+- https://pandas.pydata.org/
+- https://www.nltk.org/
+- https://anaconda.org/anaconda/numpy
+- https://docs.streamlit.io/en/latest/troubleshooting/clean-install.html
+- https://scikit-learn.org/
